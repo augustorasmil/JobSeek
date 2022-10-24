@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "629119130968",
+    "project_id": "jobseek-b7668",
+    "storage_bucket": "jobseek-b7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629119130968:android:318f1b7a9fcdcc14ced92d",
+        "android_client_info": {
+          "package_name": "Robin.Job.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629119130968-7juft3jrmcjd9vstlu4kkbrikuk68uk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQu5uZ27N-FZz-9J0R1o5W0ff_ZGPO9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629119130968-7juft3jrmcjd9vstlu4kkbrikuk68uk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629119130968-lajpj90idmucui97p8j91ednqroltcrq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Job.Posts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
