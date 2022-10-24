@@ -1,6 +1,6 @@
 # JobSeek
 
-A new Flutter project.
+An application to finding jobs and opportunities.
 
 ## Getting Started
 
